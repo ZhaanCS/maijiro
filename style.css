@@ -1,0 +1,45 @@
+header {
+  height: 5em;
+  background-color: rgba(76, 0, 130, 0.75);
+  list-style-type: decimal;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+header img {
+  width: 4em;
+  height: 4em;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0.5em;
+}
+
+nav li {
+  list-style-type: none;
+  padding: 2em 3em;
+  display: inline-block;
+}
+
+footer {
+  height: 10em;
+  background-color: rgb(40, 35, 44);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: azure;
+}
+
+main {
+  padding: 2em;
+}
+
+p {
+  padding: 0 0 0.5em;
+}
+
+p:last-child {
+  padding: 0;
+}
