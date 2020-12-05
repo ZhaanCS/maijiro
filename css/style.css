@@ -6,7 +6,12 @@ body {
   font-family: 'Ubuntu', sans-serif;
   display: flex;
   flex-flow: column nowrap;
+}
 
+.middle{
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
 }
 
 header {
@@ -31,13 +36,13 @@ header img {
   box-shadow: 0 0 0.5em rgba(76, 0, 130, 1);
 }
 
-a {
+ol li a {
   text-decoration: none;
   color: rgb(153, 135, 163);
   font-weight: bold;
 }
 
-a[href] {
+ol li a[href] {
   text-decoration: none;
   color: #000;
   font-weight: bolder;
