@@ -1,0 +1,39 @@
+.title{
+  font-weight: bold;
+  font-size: 2em;
+}
+
+p a[href] {
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 1.25em;
+  text-shadow: 0.075em 0.075em 0 rgb(94, 94, 94);
+}
+
+.freeskins {
+  color: rgb(0, 189, 25);
+}
+
+.key-drop {
+  color: rgb(168, 131, 51);
+}
+
+.csgoroll {
+  color: rgb(255, 0, 0);
+}
+
+.csgofly {
+  color: rgb(3, 112, 18);
+}
+
+.csgoempire {
+  color: rgb(196, 165, 25);
+}
+
+.csgo500 {
+  color: rgb(124, 39, 39);
+}
+
+.hellcase{
+  color: rgb(190, 43, 43);
+}
