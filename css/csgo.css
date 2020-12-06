@@ -34,10 +34,18 @@ p a[href] {
   color: rgb(124, 39, 39);
 }
 
-.hellcase{
+.hellcase {
   color: rgb(190, 43, 43);
 }
 
-.csgopolygon{
+.csgopolygon {
   color: rgb(219, 23, 23);
+}
+
+.roobet {
+  color: rgb(219, 150, 23);
+}
+
+.rollbit {
+  color: rgb(212, 144, 16);
 }
